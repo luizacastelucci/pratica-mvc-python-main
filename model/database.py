@@ -68,8 +68,8 @@ class Database:
         
 
 # Área 51
-db = Database()
-db.conectar()
-# db.executar('insert into tarefa (titulo) values ("Teste de tarefa")')
-print(db.consultar('select * from tarefa'))
-db.desconectar()
+#db = Database()
+#db.conectar()
+#db.executar('insert into tarefa (titulo) values ("Teste de tarefa")')
+#print(db.consultar('select * from tarefa'))
+#db.desconectar()
